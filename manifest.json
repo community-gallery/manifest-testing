@@ -2,21 +2,6 @@
 	"name": "manifest_testing",
 	"version": "1.0.0",
 	"description": "Lorem ipsum e plurbis unum",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/EricJackson314/manifest_testing.git",
-		"branch": "main"
-	},
-	"authors": [
-		{
-			"name": "Eric Jackson",
-			"email": "ebj29@cornell.edu"
-		},
-		{
-			"name": "Grace Hopper",
-			"url": "https://en.wikipedia.org/wiki/Grace_Hopper"
-		}
-	],
 	"license": "MIT",
 	"category": "testing",
 	"platforms": [ "cypress", "cyw943907aeval1f", "cyw954907aeval1f", "xmc4800" ]
